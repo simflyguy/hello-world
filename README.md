@@ -1,3 +1,3 @@
 # hello-world
 # my first file
-# wnat to host Bayesain files
+# want to host Bayesain files
